@@ -86,12 +86,4 @@ Feel free to contribute by opening a **Pull Request** or **Issue**!
 
 ---
 
-## 📬 Contact
-
-**Email** : parmarharshit441@gmail.com
-
-[**LinkedIn**](https://www.linkedin.com/in/harshit-parmar-47253b282)
-
----
-
 Happy Coding! 🚀
