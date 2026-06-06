@@ -27,7 +27,7 @@ This is the **backend server** for **Auth-X**, a full-stack authentication syste
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/garvitana17-glitch/Auth-X-Backend.git
+git clone https://github.com/garvitana17-glitch/Auth-X.git
 cd backend
 ```
 
